@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is cloud hosting?",
+    "answer": "Cloud hosting is a service where your website or application is hosted on multiple servers that work together as a single system. This ensures high availability, scalability, and reliability compared to traditional hosting."
+  },
+  {
+    "id": 2,
+    "question": "How much does cloud hosting cost?",
+    "answer": "Cloud hosting pricing varies based on your usage and resources. We offer flexible pay-as-you-go plans starting from $5/month for basic websites, with enterprise solutions available for larger needs."
+  },
+  {
+    "id": 3,
+    "question": "Can I scale my website with cloud hosting?",
+    "answer": "Yes! Cloud hosting allows automatic scaling. Your resources automatically increase during traffic spikes and decrease during low traffic periods, ensuring optimal performance and cost efficiency."
+  },
+  {
+    "id": 4,
+    "question": "What is uptime guarantee?",
+    "answer": "We guarantee 99.99% uptime, meaning your website will be online and accessible 99.99% of the time. Our SLA covers any downtime beyond this percentage with service credits."
+  },
+  {
+    "id": 5,
+    "question": "How do I migrate my website to cloud hosting?",
+    "answer": "Migration is simple! We provide: 1) Free migration service, 2) Step-by-step guidance, 3) 24/7 support. Most websites migrate within 24 hours with zero downtime."
+  },
+  {
+    "id": 6,
+    "question": "Is cloud hosting secure?",
+    "answer": "Yes, cloud hosting includes SSL certificates, DDoS protection, automatic backups, and firewall security. We comply with ISO 27001 and perform regular security audits."
+  },
+  {
+    "id": 7,
+    "question": "What happens if my website goes down?",
+    "answer": "Our redundant systems ensure automatic failover. If one server fails, traffic is automatically redirected to another server. We monitor 24/7 with support on standby."
+  },
+  {
+    "id": 8,
+    "question": "Do you provide backups?",
+    "answer": "Yes! Automatic daily backups are included. You can create manual backups anytime. Backups are stored in multiple geographic locations for disaster recovery."
+  },
+  {
+    "id": 9,
+    "question": "What technical support do you offer?",
+    "answer": "We provide 24/7/365 support via live chat, email, and phone. Our team includes certified engineers with average response time under 5 minutes."
+  },
+  {
+    "id": 10,
+    "question": "Can I use custom domain with cloud hosting?",
+    "answer": "Absolutely! You can connect any custom domain. We provide free domain setup assistance and handle DNS configuration for you."
+  },
+  {
+    "id": 11,
+    "question": "What programming languages are supported?",
+    "answer": "We support PHP, Python, Node.js, Ruby, Java, Go, and more. Choose your preferred language or use multiple in the same project."
+  },
+  {
+    "id": 12,
+    "question": "How do I manage my website files?",
+    "answer": "You can manage files through: 1) FTP/SFTP access, 2) File Manager in control panel, 3) Git integration. SSH access is also available."
+  }
+]
